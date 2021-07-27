@@ -1,0 +1,124 @@
+#! /bin/bash 
+
+#echo command 
+
+#echo  "please leave me alone"
+
+#variables
+
+#NAME="JACK ROBINSON"
+ 
+#echo "My name is $NAME"
+
+#user inputs 
+
+#read -p "please insert your name: " NAME
+#read -p "plese tell us your age: " AGE 
+#read -p "please tell us where you live: " ADDRESS
+
+#echo  " I am $NAME, I am $AGE, I live at $ADDRESS"
+
+#simple if statements
+#if [ "$NAME" == "ANTHONY EDOHEN" ]
+#then    
+    #echo "My name is ANTHONY EDOHEN"
+#fi 
+
+#simple if - else statements
+#if [ "$NAME" == "JACK ROBINSON" ]
+#then 
+   # echo "my Name is JACK ROBINSON "
+#else 
+    #echo "My name is actually ANTHONY EDOHEN" 
+#fi 
+
+
+#Simple else if (elif)
+#if [ "$NAME" == "ANTHONY EDOHEN" ]
+#then 
+    #echo "my name is ANTHONY EDOHEN"
+#elif [ "$NAME" == "JACK ROBINSON" ]
+#then 
+    #echo "my name is JACK ROBINSON"
+#else 
+    #echo "My name is neither ANTHONY EDOHEN or JACK ROBINSON"
+#fi
+
+#COMPARISON
+#NUM1=20 
+#NUM2=200
+#NUM3=300
+#NUM4=20
+
+#if [ "$NUM1" -eq "$NUM4" ]
+#then 
+    #echo "$NUM1 is equal to $NUM4"
+#fi 
+
+#if [ "$NUM4" -le "$NUM1" ]
+#then 
+    #echo " $NUM2 is less than or equal to  $NUM1"
+#fi 
+
+
+#if [ "$NUM1" -lt "$NUM3" ]
+#then    
+#   echo "$NUM1 is less than  $NUM3"
+#elif ["$NUM1" -gt "$NUM3" ]
+#then
+#echo "$NUM1 is greater than $NUM4"
+
+#fi
+
+#echo commnand
+
+#echo "please leave me alone"
+
+#variables 
+
+#NAME="JACK ROBINSON"
+
+#echo "My name is $NAME"
+
+#USER INPUTS 
+ #read -p "Please enter your name: " NAME 
+ #read -p "Please enter you age: " AGE 
+ #read -p  "Please enter your location: " ADDRESS
+
+ #echo "You are $NAME, You are $AGE, You live in $ADDRESS"
+
+
+#SIMPLE IF STATEMENTS
+
+#if [ "$NAME" == "ANTHONY EDOHEN" ]
+#then 
+    #echo "This is correct"
+#fi 
+
+#simple if -else  statments
+#if [ "$NAME" == "ANTHONY EODHEN" ]
+#then    
+    #echo "This is correct"
+#else
+    #echo  "This is not correct"
+
+#fi 
+
+
+#this script creates an account on the local system 
+# you wil be prompted for the account name and password
+
+# ask for the username 
+
+
+
+#ask for the first and last name 
+
+#ask for the password 
+
+
+#create the user 
+
+#set the passowrd fopr the user 
+
+# force the user to change the password at first login 
