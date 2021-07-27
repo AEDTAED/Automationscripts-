@@ -1,0 +1,14 @@
+# Automationscripts-
+
+#FOR LOOP TO RENAME FILES
+
+#This is how to rename files without stressing out especailly if the files are more than 1
+
+
+FILES=$(ls *.txt)
+NEW="new"
+for FILE in $FILES
+    do 
+        echo "renaming $FILE to new-$FILE"
+        mv $FILE $NEW-$FILE
+done
